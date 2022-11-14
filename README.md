@@ -30,4 +30,4 @@ El administrador del sitio debe recibir notificaciones de cada nueva demanda y c
 ![Buyer_persona1.jpg](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Buyer_persona1.jpg)
 <p1>Buyer Persona<p1>
            
-[Pedro Pineda.pdf](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Buyer_persona2.jpg)
+![Buyer_persona2.jpg](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Buyer_persona2.jpg)
