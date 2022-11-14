@@ -26,8 +26,10 @@ El administrador del sitio debe recibir notificaciones de cada nueva demanda y c
 
 ## Modelación Abogabot
 ![Abogabot_uml.png](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Abogabot_uml.png)
+
 ## Buyer Persona 
 ![Buyer_persona1.jpg](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Buyer_persona1.jpg)
-<p1>Buyer Persona<p1>
-           
 ![Buyer_persona2.jpg](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Buyer_persona2.jpg)
+
+## Público objetivo
+![Publico_objetivo.jpg](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Publico_objetivo.jpg)
