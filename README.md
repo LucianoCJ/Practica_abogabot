@@ -1,7 +1,7 @@
 
 # Práctica 1# del curso Launch-X-Latam <spam>Abogabot</spam>
 
-##**Toma de requerimientos**
+**Toma de requerimientos**
 
 ***Usuario solicitante***
 
@@ -27,6 +27,7 @@ El administrador del sitio debe recibir notificaciones de cada nueva demanda y c
 ## Modelación Abogabot
 ![Abogabot_uml.png](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Abogabot_uml.png)
 ## Buyer Persona 
-![Pedro_Pineda](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Pedro_Pineda.pdf)  
+![Buyer_persona1.jpg](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Buyer_persona1.jpg)
 <p1>Buyer Persona<p1>
-[Pedro Pineda.pdf](https://github.com/LucianoCJ/Practica_abogabot/files/9947509/Pedro.Pineda.pdf)
+           
+[Pedro Pineda.pdf](https://github.com/LucianoCJ/Practica_abogabot/blob/main/Buyer_persona2.jpg)
